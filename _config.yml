@@ -1,1 +1,6 @@
-theme: jekyll-theme-architect
+deftcode ~ $ jekyll build -s /var/www/deftcode -d /var/www/deftcode/_site
+Configuration file: /var/www/deftcode/_config.yml
+Source: /var/www/deftcode
+Destination: /var/www/deftcode/_site
+Generating... 
+done.theme: jekyll-theme-architect
